@@ -1,4 +1,4 @@
 # BoxShooter
 Unity-based game.
 
-<img href="boxshooter.png"/>
+![Box Shooter](boxshooter.png "Box Shooter")
